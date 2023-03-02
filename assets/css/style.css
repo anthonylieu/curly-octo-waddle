@@ -57,7 +57,6 @@
   /*header stop*/
   
   /*hero start*/
-
   .hero {
     height: 800px;
     width: 100%;
@@ -76,11 +75,9 @@
     float: right;
     margin-left: 25px;
   }
-  
   /* hero end */
   
   /*section start*/
-  
   .content {
     width: 75%;
     display: inline-block;
@@ -132,6 +129,7 @@
     margin-bottom: 20px;
     font-size: 36px;
   }
+
   .footer {
     padding: 30px;
     clear: both;
@@ -143,6 +141,5 @@
   .footer h2 {
     font-size: 20px;
   }
-  
   /* section end */
   
