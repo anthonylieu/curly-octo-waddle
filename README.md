@@ -10,6 +10,6 @@ Code was changed in order to match mock up.
     <li>Consolidated the sections in CSS.</li>
     <li>Consolidated the divs in CSS.<li>
 </ul>
-https://magicalburritos.github.io/Week-1-Horiseon-challenge/
+https://anthonylieu.github.io/curly-octo-waddle/
 
-<img src="./assets/images/ScreenShot Tool -20211026012439.png" alt="module1challenge">
+<img src="./assets/images/module1screenshot.png" alt="module1challenge">
