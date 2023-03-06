@@ -20,6 +20,8 @@
   }
   /* elements end */
   
+/* I reorganized the CSS so that the elements would be grouped together. */
+
   /* header start */
   .header {
     padding: 20px;
@@ -55,6 +57,8 @@
     margin-left: 25px;
   }
   /*header stop*/
+
+  /* I reorganized the CSS so that the header classes would be grouped together. */
   
   /*hero start*/
   .hero {
@@ -76,6 +80,8 @@
     margin-left: 25px;
   }
   /* hero end */
+
+  /* I reorganized the CSS so that any classes affect the hero class would be grouped together. */
   
   /*section start*/
   .content {
@@ -99,18 +105,24 @@
     margin-bottom: 32px;
     color: #ffffff;
   }
+
+  /* I consolidated .benefit-lead, .benefit-brand, and .benefit-cost into one class. */
   
   .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
     color: white;
   }
+
+    /* I consolidated .benefit-lead h3, .benefit-brand h3, and .benefit-cost h3 into one class. */
   
   .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
   }
+
+    /* I consolidated .benefit-lead img, .benefit-brand img, and .benefit-cost img into one class. */
   
   .content div {
     margin-bottom: 20px;
@@ -120,15 +132,21 @@
     background-color: #0072bb;
     color: #ffffff;
   }
+
+    /* I consolidated .search-engine-optimization, .online-reputation-management, and .social-media-marketing into one class. */
   
   .content img {
     max-height: 200px;
   }
+
+    /* I consolidated .search-engine-optimization img, .online-reputation-management img, and .social-media-marketing img into one class. */
   
   .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
   }
+
+  /* I consolidated .search-engine-optimization h2, .online-reputation-management h2, and .social-media-marketing h2 into one class. */
 
   .footer {
     padding: 30px;
